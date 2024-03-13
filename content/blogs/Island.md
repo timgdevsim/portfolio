@@ -24,6 +24,7 @@ mathjax: false
   Discover the story through hidden messages and objects. 
 
 
+![my gif](/images/gif1.gif)
 
 
 ![my gif](/images/gif2.gif)
