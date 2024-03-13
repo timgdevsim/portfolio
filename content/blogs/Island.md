@@ -27,6 +27,7 @@ mathjax: false
 
 
 
+![my gif](/images/gif1.gif)
 
 
 ![my gif](/images/gif2.gif)
