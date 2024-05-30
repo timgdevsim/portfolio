@@ -28,12 +28,6 @@ Gameplay:
   - You lose one impulse when you pass through red planet.
 
 
-Levels:
-
-  - Levels are systems with has variation by the number of orbits.
-  - Each system are procedurally generate with a preset of quantity for each type of planet.
-  - The code can generate different type of system with parameters such as speed, orbit, size, type ...
-
 
 
 
