@@ -27,7 +27,7 @@ Gameplay:
   - When you take a blue round, you refill all of the impulse and you can see the map entirely.
   - You lose one impulse when you pass through red planet.
 
-
+Levels:
 
 
 
@@ -35,7 +35,3 @@ Gameplay:
 
 
 
-The project is still evolving with research of different planet type and graphic arts.
-
-
-![my gif](/images/planets.PNG)
