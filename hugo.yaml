@@ -181,9 +181,18 @@ params:
     items:
 
   
+      - title: Growing Bubble (GMTK Game Jam 2024)
+        content: 
+        image:  /images/trente.PNG
+        featured:
+          name: link
+          link: blogs/island
+        badges:
+          - "Unreal Engine"
+          - "Blueprint"
 
 
-      - title: Space Game For Android 
+      - title: Astra 
         content: 
         image: /images/Gi2.gif  
         featured:
@@ -196,17 +205,6 @@ params:
 
 
       - title: Mandala generator
-        content: 
-        image:  /images/trente.PNG
-        featured:
-          name: link
-          link: blogs/island
-        badges:
-          - "Unreal Engine"
-          - "Blueprint"
-
-          
-      - title: Growing Bubble (GMTK Game Jam 2024)
         content: 
         image:  /images/trente.PNG
         featured:
@@ -259,19 +257,6 @@ params:
           - "Unreal Engine"
           - "Blueprint"
 
-
-
-      - title: Procedural Shapes
-        content: 
-        image:  /images/land1.PNG
-        featured:
-          name: link
-          link: blogs/procedural
-        badges:
-          - "Rhino 7"
-          - "Grasshopper"
- 
-
       - title: Structure Simulation
         content: 
         image:  /images/barre.gif
@@ -290,7 +275,18 @@ params:
         badges:
           - "Rhino 7"
           - "Grasshopper"
+
+
  
+      - title: Procedural Shapes (WIP)
+        content: 
+        image:  /images/land1.PNG
+        featured:
+          name: link
+          link: blogs/procedural
+        badges:
+          - "Rhino 7"
+          - "Grasshopper"
 
 
 
