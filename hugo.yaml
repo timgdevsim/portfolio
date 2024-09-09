@@ -206,7 +206,7 @@ params:
           - "Blueprint"
 
           
-      - title: Growing Bubble (GMTK Game Jam)
+      - title: Growing Bubble (GMTK Game Jam 2024)
         content: 
         image:  /images/trente.PNG
         featured:
@@ -216,7 +216,7 @@ params:
           - "Unreal Engine"
           - "Blueprint"
 
-      - title: Global Game Jam
+      - title: En attendant dogo (Global Game Jam 2024)
         content: 
         image:  /images/trente.PNG
         featured:
@@ -226,7 +226,7 @@ params:
           - "Unreal Engine"
           - "Blueprint"
           
-      - title: Scientific Game Jam
+      - title: Bento (Scientific Game Jam 2024)
         content: 
         image:  /images/trente.PNG
         featured:
