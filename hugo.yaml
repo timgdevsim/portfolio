@@ -348,7 +348,7 @@ params:
     index: false
     items:
 
-        - title: "GMTK Game Jam 2024 "
+      - title: "GMTK Game Jam 2024 "
         school:
           name: "from home"
           url: ""
@@ -356,7 +356,7 @@ params:
         # GPA: "3.8 out of 5.0"
         content: 
 
-        - title: "Scientific Game Jam"
+      - title: "Scientific Game Jam"
         school:
           name: "Nantes"
           url: ""
