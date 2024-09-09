@@ -17,7 +17,8 @@ mathjax: false
 
 The game can be dowloaded on itchio with the folowing link
 
-https://timgodard.itch.io/growing-bubble
+https://itch.io/jam/gmtk-2024/rate/2911000
+
 
 ![my gif](/images/land1.PNG)
 
