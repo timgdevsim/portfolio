@@ -474,9 +474,9 @@ params:
     content:  |-
       My phone number is 06 42 81 05 55
      
-      You can also contact me by email: contact@timotheegodard.fr
+      You can also contact me by email: timothee.godard@gmail.com
       
-    email: contact@timotheegodard.fr
+    email: timothee.godard@gmail.com
     btnName: Mail me
     # formspree:
     #   enable: true # `contact.email` value will be ignored
