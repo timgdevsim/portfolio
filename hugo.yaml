@@ -186,7 +186,7 @@ params:
         image:  /images/trente.PNG
         featured:
           name: link
-          link: blogs/island
+          link: blogs/growing
         badges:
           - "Unreal Engine"
           - "Blueprint"
