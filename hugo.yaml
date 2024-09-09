@@ -126,7 +126,7 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Timothée Godard"
-    subtitle: "Game Designer"
+    subtitle: "Game Design and Experimentation"
     content: "Passionate about games and technologies. I want to add my contribution in the creation of video games. You can contact me by email : timothee.godard@gmail.com "
     image: /images/me.jpg
     bottomImage:
@@ -349,7 +349,24 @@ params:
     index: false
     items:
 
-      - title: "Global Gam Jam"
+        - title: "GMTK Game Jam 2024 "
+        school:
+          name: "from home"
+          url: ""
+        date: "2024"
+        # GPA: "3.8 out of 5.0"
+        content: 
+
+        - title: "Scientific Game Jam"
+        school:
+          name: "Nantes"
+          url: ""
+        date: "2024"
+        # GPA: "3.8 out of 5.0"
+        content: 
+    
+
+      - title: "Global Game Jam"
         school:
           name: "Nantes"
           url: ""
