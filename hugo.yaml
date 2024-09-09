@@ -195,6 +195,48 @@ params:
             - "Visual Studio Code"
 
 
+      - title: Mandala generator
+        content: 
+        image:  /images/trente.PNG
+        featured:
+          name: link
+          link: blogs/island
+        badges:
+          - "Unreal Engine"
+          - "Blueprint"
+
+          
+      - title: Growing Bubble (GMTK Game Jam)
+        content: 
+        image:  /images/trente.PNG
+        featured:
+          name: link
+          link: blogs/island
+        badges:
+          - "Unreal Engine"
+          - "Blueprint"
+
+      - title: Global Game Jam
+        content: 
+        image:  /images/trente.PNG
+        featured:
+          name: link
+          link: blogs/island
+        badges:
+          - "Unreal Engine"
+          - "Blueprint"
+          
+      - title: Scientific Game Jam
+        content: 
+        image:  /images/trente.PNG
+        featured:
+          name: link
+          link: blogs/island
+        badges:
+          - "Unreal Engine"
+          - "Blueprint"
+
+          
       - title: Island Escape Game
         content: 
         image:  /images/trente.PNG
