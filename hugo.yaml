@@ -124,8 +124,8 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Hi, my name is"
-    title: "Timothée Godard"
+    intro: ""
+    title: "Tim.G"
     subtitle: "Game Design and Experimentation"
     content: "Passionate about games and technologies. I want to add my contribution in the creation of video games. You can contact me by email : timothee.godard@gmail.com "
     image: /images/me.jpg
