@@ -15,9 +15,7 @@ mathjax: false
 
 
 
-The game can be downloaded on itchio with the folowing link
-
-We can see the rate of the game with 7620 entry 
+The game can be downloaded on itchio with the following link
 
 https://itch.io/jam/gmtk-2024/rate/2911000
 
