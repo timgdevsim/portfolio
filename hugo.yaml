@@ -192,7 +192,7 @@ params:
             - "LUA"
             - "Visual Studio Code"
 
-      - title: Astra 
+      - title: Astra for android
         content: 
         image: /images/Gi2.gif  
         featured:
@@ -206,7 +206,7 @@ params:
 
       - title: Mandala generator
         content: 
-        image:  /images/trente.PNG
+        image:  /images/mandala.gif
         featured:
           name: link
           link: 
@@ -269,23 +269,13 @@ params:
           - "Rhino 7"
           - "Grasshopper"
 
-
-      - title: En attendant dogo (Global Game Jam 2024)
-        content: 
-        image:  /images/dogo.gif
-        featured:
-          name: link
-          link: blogs/island
-        badges:
-          - "Godot"
-
           
       - title: Bento (Scientific Game Jam 2024)
         content: 
         image:  /images/bento.PNG
         featured:
           name: link
-          link: blogs/island
+          link: 
         badges:
           - "Unity"
 
