@@ -128,7 +128,7 @@ params:
     title: "Tim.G"
     subtitle: "Game Design"
     content: "Passionate about games and technologies. I want to add my contribution in the creation of video games. You can contact me by email : timothee.godard@gmail.com "
-    image: /images/me.jpg
+    image: /images/myphoto.jpg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -183,14 +183,14 @@ params:
   
       - title: Growing Bubble (GMTK Game Jam 2024)
         content: 
-        image:  /images/trente.PNG
+        image:  /images/growing.PNG
         featured:
           name: link
-          link: blogs/growing
+          link: https://itch.io/jam/gmtk-2024/rate/2911000
         badges:
-          - "Unreal Engine"
-          - "Blueprint"
-
+            - "Love2D"
+            - "LUA"
+            - "Visual Studio Code"
 
       - title: Astra 
         content: 
@@ -209,30 +209,11 @@ params:
         image:  /images/trente.PNG
         featured:
           name: link
-          link: blogs/island
+          link: 
         badges:
-          - "Unreal Engine"
-          - "Blueprint"
-
-      - title: En attendant dogo (Global Game Jam 2024)
-        content: 
-        image:  /images/trente.PNG
-        featured:
-          name: link
-          link: blogs/island
-        badges:
-          - "Unreal Engine"
-          - "Blueprint"
-          
-      - title: Bento (Scientific Game Jam 2024)
-        content: 
-        image:  /images/trente.PNG
-        featured:
-          name: link
-          link: blogs/island
-        badges:
-          - "Unreal Engine"
-          - "Blueprint"
+            - "Love2D"
+            - "LUA"
+            - "Visual Studio Code"
 
           
       - title: Island Escape Game
@@ -287,6 +268,28 @@ params:
         badges:
           - "Rhino 7"
           - "Grasshopper"
+
+
+      - title: En attendant dogo (Global Game Jam 2024)
+        content: 
+        image:  /images/dogo.gif
+        featured:
+          name: link
+          link: blogs/island
+        badges:
+          - "Godot"
+
+          
+      - title: Bento (Scientific Game Jam 2024)
+        content: 
+        image:  /images/bento.PNG
+        featured:
+          name: link
+          link: blogs/island
+        badges:
+          - "Unity"
+
+
 
 
 
