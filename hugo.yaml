@@ -183,7 +183,7 @@ params:
   
       - title: Growing Bubble (GMTK Game Jam 2024)
         content: 
-        image:  /images/growing.PNG
+        image:  /images/growing.gif
         featured:
           name: link
           link: https://itch.io/jam/gmtk-2024/rate/2911000
