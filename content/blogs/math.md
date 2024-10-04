@@ -14,7 +14,7 @@ mathjax: false
 
 
 
-![my gif](/images/Gi2.gif)
+![my gif](/images/astragameplay.gif)
 
 
 Gameplay:
@@ -31,7 +31,7 @@ Levels:
 
 
 
-![my gif](/images/Gi1.gif)
+![my gif](/images/astralvl.gif)
 
 
 
