@@ -128,7 +128,7 @@ params:
     title: "Tim.G"
     subtitle: "Game Design"
     content: "Passionate about games and technologies. I want to add my contribution in the creation of video games. You can contact me by email : timothee.godard@gmail.com "
-    image: /images/myphoto.jpg
+    image: /images/mandala2.jpg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -192,9 +192,9 @@ params:
             - "LUA"
             - "Visual Studio Code"
 
-      - title: Astra for android
+      - title: Astra
         content: 
-        image: /images/Gi2.gif  
+        image: /images/astragameplay.gif  
         featured:
           name: link
           link: blogs/math
@@ -206,7 +206,7 @@ params:
 
       - title: Mandala generator
         content: 
-        image:  /images/mandala.gif
+        image:  /images/mandala2.gif
         featured:
           name: link
           link: 
