@@ -533,7 +533,7 @@ params:
   terms:
     read: "Read"
     toc: "Table Of Contents"
-    copyright: "All rights reserved"
+    copyright: ""
     pageNotFound: "Page not found"
     emailText: "Check out this site"
 
