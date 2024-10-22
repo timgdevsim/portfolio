@@ -207,7 +207,7 @@ params:
 
       - title: Procedural Shapes
         content: 
-        image:  /images/land1.PNG
+        image:  /images/laby.PNG
         featured:
           name: link
           link: blogs/procedural
