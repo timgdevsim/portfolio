@@ -264,7 +264,7 @@ params:
  
       - title: Procedural Shapes (WIP)
         content: 
-        image:  /images/laby.PNG
+        image:  /images/laby.jpg
         featured:
           name: link
           link: blogs/procedural
