@@ -180,17 +180,7 @@ params:
     # title: "Custom Name"
     items:
 
-  
-      - title: Growing Bubble (GMTK Game Jam 2024)
-        content: 
-        image:  /images/growing.gif
-        featured:
-          name: link
-          link: https://itch.io/jam/gmtk-2024/rate/2911000
-        badges:
-            - "Love2D"
-            - "LUA"
-            - "Visual Studio Code"
+
 
       - title: Astra
         content: 
@@ -204,18 +194,6 @@ params:
             - "Visual Studio Code"
 
 
-      - title: Mandala generator
-        content: 
-        image:  /images/mandala2.gif
-        featured:
-          name: link
-          link: 
-        badges:
-            - "Love2D"
-            - "LUA"
-            - "Visual Studio Code"
-
-          
       - title: Island Escape Game
         content: 
         image:  /images/trente.PNG
@@ -225,31 +203,21 @@ params:
         badges:
           - "Unreal Engine"
           - "Blueprint"
- 
 
 
-      - title: Heaven Puzzle Game
+      - title: Growing Bubble (GMTK Game Jam 2024)
         content: 
-        image:  /images/heaven.png
+        image:  /images/growing.gif
         featured:
           name: link
-          link: blogs/heaven
+          link: https://itch.io/jam/gmtk-2024/rate/2911000
         badges:
-          - "Unreal Engine"
-          - "Blueprint"
-
-      - title: Structure Simulation
-        content: 
-        image:  /images/barre.gif
-        featured:
-            name: link
-            link: blogs/simulation
-        badges:
-          - "Rhino 7"
-          - "Grasshopper"
+            - "Love2D"
+            - "LUA"
+            - "Visual Studio Code"
 
 
-          
+
       - title: Geodesic dome
         content: 
         image:  /images/dome1.PNG
@@ -261,7 +229,19 @@ params:
           - "Grasshopper"
 
 
- 
+      - title: Mandala generator
+        content: 
+        image:  /images/mandala2.gif
+        featured:
+          name: link
+          link: blogs/mandala
+        badges:
+            - "Love2D"
+            - "LUA"
+            - "Visual Studio Code"
+
+
+          
       - title: Procedural Shapes (WIP)
         content: 
         image:  /images/laby.jpg
@@ -272,13 +252,40 @@ params:
           - "Rhino 7"
           - "Grasshopper"
 
+
+          
+
+      - title: Heaven Puzzle Game
+        content: 
+        image:  /images/heaven.png
+        featured:
+          name: link
+          link: blogs/heaven
+        badges:
+          - "Unreal Engine"
+          - "Blueprint"
+
+          
+
+      - title: Structure Simulation
+        content: 
+        image:  /images/barre.gif
+        featured:
+            name: link
+            link: blogs/simulation
+        badges:
+          - "Rhino 7"
+          - "Grasshopper"
+
+          
+ 
           
       - title: Bento (Scientific Game Jam 2024)
         content: 
         image:  /images/bento.PNG
         featured:
           name: link
-          link: 
+          link: blogs/bento
         badges:
           - "Unity"
 
