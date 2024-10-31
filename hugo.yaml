@@ -54,7 +54,7 @@ markup:
 
 params:
   title: "Tim.G"
-  description: Game Dev
+  description: Game developer
   # staticPath: ""  # The path to serve the static files from
   favicon: "/images/space.png"
 
@@ -244,7 +244,7 @@ params:
           
       - title: Procedural Shapes (WIP)
         content: 
-        image:  /images/laby.jpg
+        image:  /images/laby2.jpg
         featured:
           name: link
           link: blogs/procedural
