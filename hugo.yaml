@@ -197,7 +197,7 @@ params:
         image: /images/astragameplay.gif  
         featured:
           name: link
-          link: blogs/math
+          link: blogs/astra
         badges:
             - "Love2D"
             - "LUA"
