@@ -247,11 +247,15 @@ params:
         badges:
           - "Rhino 7"
           - "Grasshopper"
- 
 
+
+          
       - title: Geodesic dome
         content: 
         image:  /images/dome1.PNG
+        featured:
+          name: link
+          link: blogs/dome
         badges:
           - "Rhino 7"
           - "Grasshopper"
@@ -260,7 +264,7 @@ params:
  
       - title: Procedural Shapes (WIP)
         content: 
-        image:  /images/land1.PNG
+        image:  /images/laby.PNG
         featured:
           name: link
           link: blogs/procedural
