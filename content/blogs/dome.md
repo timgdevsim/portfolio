@@ -12,6 +12,8 @@ toc: false
 mathjax: false
 ---
 
+End-Of-Study project:
+Concepts of geodesic dome for event.
 
 ![my gif](/images/dome2.PNG)
 
@@ -27,9 +29,11 @@ mathjax: false
 
 ![my gif](/images/dome6.PNG)
 
+Structure analysis of Geodesic dome with grasshopper
+
 
 ![my gif](/images/dome7.PNG)
 
-
+Structure analysis of Geodesic dome with Accord Bat
 
 ![my gif](/images/dome8.PNG)
