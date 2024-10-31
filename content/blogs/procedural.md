@@ -20,9 +20,6 @@ On this example we define the global shape of the plateform and automaticly fill
 
 ![my gif](/images/22.PNG)
 
-It is possible to transform any flat mesh form to a labyrinth.
-
-![my gif](/images/laby.PNG)
 
 This structure is an experimental design to be build with polyester blocs.
 
