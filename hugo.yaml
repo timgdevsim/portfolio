@@ -249,10 +249,9 @@ params:
           - "Grasshopper"
  
 
-      - title: Double Pendulum Chaos (WIP)
+      - title: Geodesic dome
         content: 
-        image:  /images/pend.gif
-
+        image:  /images/dome1.PNG
         badges:
           - "Rhino 7"
           - "Grasshopper"
